@@ -1,0 +1,14 @@
+D:\Facultate\II\DiscTaraf\DiscTaraf\bin\Debug\DiscTaraf.exe.config
+D:\Facultate\II\DiscTaraf\DiscTaraf\bin\Debug\DiscTaraf.exe
+D:\Facultate\II\DiscTaraf\DiscTaraf\bin\Debug\DiscTaraf.pdb
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.csproj.AssemblyReference.cache
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.Form1.resources
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.Properties.Resources.resources
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.csproj.GenerateResource.cache
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.csproj.CoreCompileInputs.cache
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.exe
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.pdb
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.Form2.resources
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\Interop.MediaPlayer.dll
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\Interop.WMPLib.dll
+D:\Facultate\II\DiscTaraf\DiscTaraf\obj\Debug\DiscTaraf.csproj.ResolveComReference.cache
